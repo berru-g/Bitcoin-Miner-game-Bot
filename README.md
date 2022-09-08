@@ -1,4 +1,7 @@
 # Bitcoin-Miner-game-Bot
+
+#Autoclick faster than my grandMa who has Parkinson !
+
 #Autoclick simple for the game Bitcoin Miner
 
 #import pyautogui
