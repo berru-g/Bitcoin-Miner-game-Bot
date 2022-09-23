@@ -2,11 +2,17 @@
 
 #Autoclick faster than my grandMa who has Parkinson !
 
-#Autoclick simple for the game Bitcoin Miner
+#Simple loop for the game Bitcoin Miner
 
-#import pyautogui
+`import pyautogui` 
+it is necessary for the interaction.
 
-#pip install scrcpy
+`pip install scrcpy` for window and Adb, xdotool, xautomation & Client if you used Linux.
+
+Look that https://github.com/Genymobile/scrcpy
+For autoclick used "pyautogui" and give him the coordinates, or used recognition via an picture like that,
+`x, y = pyautogui.locateCenterOnScreen('img.png')
+pyautogui.click(x, y)`
 
 #FYI I won €0.00893 in two hours 😂 This just occupied my lunch ;) Enjoy
 
