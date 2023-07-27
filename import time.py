@@ -1,6 +1,4 @@
 import time
-from time import sleep
-from tkinter import CENTER
 import pyautogui
 
 #x, y = pyautogui.locateCenterOnScreen('mine.png')
